@@ -1,0 +1,14 @@
+# Use a base image with JDK 17
+FROM eclipse-temurin:17-jdk-alpine
+
+# Set working directory
+WORKDIR /app
+
+# Copy built jar from Maven target
+COPY target/*.jar app.jar
+
+# Expose app port (Spring Boot default)
+EXPOSE 8080
+
+# Command to run the app
+ENTRYPOINT ["java", "-jar", "app.jar"]
