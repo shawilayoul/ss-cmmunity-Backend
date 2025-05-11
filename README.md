@@ -28,7 +28,6 @@ The backend is built with **Spring Boot** and **MongoDB**, containerized with **
 - 👥 CRUD operations for **Community Members**
 - 🖼️ CRUD operations for **Photo Galleries**
 - 🔐 Admin authentication and role-based access control
-- 📁 Media upload (optional, if implemented)
 
 ---
 
