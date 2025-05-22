@@ -6,13 +6,13 @@ The backend is built with **Spring Boot** and **MongoDB**, containerized with **
 
 ---
 
-## 🌐 Live API
+## Live API
 
 🔗 [API Base URL](https://ss-cmmunity-fr.onrender.com)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: Spring Boot  
 - **Database**: MongoDB  
@@ -22,16 +22,16 @@ The backend is built with **Spring Boot** and **MongoDB**, containerized with **
 
 ---
 
-## 📦 Features
+## Features
 
-- 🗓️ CRUD operations for **Events**
-- 👥 CRUD operations for **Community Members**
-- 🖼️ CRUD operations for **Photo Galleries**
-- 🔐 Admin authentication and role-based access control
+- CRUD operations for **Events**
+- CRUD operations for **Community Members**
+- CRUD operations for **Photo Galleries**
+- Admin authentication and role-based access control
 
 ---
 
-## 🚀 Getting Started (Local Development)
+## Getting Started (Local Development)
 
 ### Prerequisites
 
